@@ -15,6 +15,7 @@ This datapack was developed and tested for Minecraft version 1.15.2. Compatibili
 1.  Download the zip file for the version you want.
 2.  Install the datapack like explained [here](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack)
 3.  Have fun!
+4.  Place somewhere in the spawnchunks (or any other chunks that are loaded) every block, that should be able to be used as a random block. Then place on every of these blocks the armor_stand you get via `/function touchtorandom:getstand`.
 
 ## Files
 
